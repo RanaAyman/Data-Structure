@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eg.edu.alexu.csd.datastructure.stack.cs_24","l":"ExpressionEvaluator"},{"p":"eg.edu.alexu.csd.datastructure.stack.cs_24","l":"IExpressionEvaluator"},{"p":"eg.edu.alexu.csd.datastructure.stack.cs_24","l":"IStack"},{"p":"eg.edu.alexu.csd.datastructure.stack.cs_24","l":"Stack"}]
